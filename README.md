@@ -20,7 +20,7 @@ Java script
 <br>
 Bootstrap
 <h2>My social profiles</h2>
-<p> Instagram <a href="https://www.instagram.com/"></a></p>
-<p> Facebook <a href="https://www.facebook.com/kesav.amlani?mibextid=ZbWKwL"></a>  </p>
-<p> Linkedln <a href="www.linkedin.com/in/keshav-amlani-1413472b1"></a></p>
+<p> Instagram <a href="https://www.instagram.com/">Click!</a></p>
+<p> Facebook <a href="https://www.facebook.com/kesav.amlani?mibextid=ZbWKwL">Click!</a>  </p>
+<p> Linkedln <a href="www.linkedin.com/in/keshav-amlani-1413472b1">Click!</a></p>
 
