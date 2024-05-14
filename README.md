@@ -11,7 +11,13 @@ keshavamlani12/instagram_clone is a ✨ special ✨ repository because its `READ
 You can click the Preview link to take a look at your changes.
 --->
 my skills is
+<BR>
 HTML
+<BR>
+
 CSS
+<br>
 Java script
+<br>
+
 Bootstrap
